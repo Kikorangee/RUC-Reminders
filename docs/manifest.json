@@ -7,8 +7,8 @@
       "page": "Dashboard",
       "title": "RUC Dashboard",
       "icon": "https://cdn-icons-png.flaticon.com/512/2645/2645897.png",
-      "url": "https://kikorangee.github.io/RUC-Reminders/ruc-dashboard.js",
-      "script": "https://kikorangee.github.io/RUC-Reminders/ruc-dashboard.js",
+      "url": "https://kikorangee.github.io/RUC-Reminders/docs/ruc-dashboard.js",
+      "script": "https://kikorangee.github.io/RUC-Reminders/docs/ruc-dashboard.js",
       "menuIcon": "https://cdn-icons-png.flaticon.com/512/2645/2645897.png",
       "menuName": {
         "en": "RUC Dashboard"
