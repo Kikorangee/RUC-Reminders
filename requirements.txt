@@ -1,0 +1,28 @@
+# RUC Reminders Status Page Dependencies
+# Core dependencies for Webfleet API integration and email processing
+
+# HTTP requests for API calls
+requests>=2.28.0
+
+# Email handling is built into Python standard library
+# The following packages are part of Python standard library:
+# - smtplib
+# - email
+# - json
+# - pathlib
+# - tempfile
+# - hashlib
+# - logging
+# - datetime
+# - typing
+
+# Optional: For enhanced email features (if needed in future)
+# email-validator>=1.2.0
+
+# Optional: For configuration validation (if needed in future)  
+# pydantic>=1.10.0
+
+# Optional: For testing (if tests are added)
+# pytest>=7.0.0
+# pytest-cov>=3.0.0
+# requests-mock>=1.9.0

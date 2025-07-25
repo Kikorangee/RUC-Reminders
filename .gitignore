@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# RUC Reminders specific
+config.json
+status_page.log
+/tmp/ruc_reminders/
+
+# Temporary files
+*.tmp
+*.temp
+temp_*
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Email credentials and sensitive data
+*.key
+*.pem
+*password*
+*secret*
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
