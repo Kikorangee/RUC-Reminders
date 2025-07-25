@@ -1,0 +1,15 @@
+{
+  "webfleet": {
+    "api_key": "your_webfleet_api_key_here",
+    "account": "your_webfleet_account_here",
+    "base_url": "https://csv.webfleet.com"
+  },
+  "email": {
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "username": "your_email@example.com",
+    "password": "your_email_password_here"
+  },
+  "standard_pdf_path": "/path/to/your/standard_document.pdf",
+  "temp_dir": "/tmp/ruc_reminders"
+}
